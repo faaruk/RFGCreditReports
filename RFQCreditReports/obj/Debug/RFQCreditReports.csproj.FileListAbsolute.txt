@@ -1,0 +1,12 @@
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\bin\Debug\RFQCreditReports.dll.config
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\bin\Debug\RFQCreditReports.dll
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\bin\Debug\RFQCreditReports.pdb
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.CreditReport.resources
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.csproj.GenerateResource.Cache
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.dll
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.pdb
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.Beschreibung1.resources
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.Beschreibung2.resources
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.Beschreibung3.resources
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.Summary.resources
+E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.csprojResolveAssemblyReference.cache
