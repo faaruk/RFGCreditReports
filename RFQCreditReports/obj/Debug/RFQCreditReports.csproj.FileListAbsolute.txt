@@ -10,3 +10,15 @@ E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RF
 E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.Beschreibung3.resources
 E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.Summary.resources
 E:\Activities\Efren Castillo\Credit Project\RFQCreditReports\RFQCreditReports\RFQCreditReports\obj\Debug\RFQCreditReports.csprojResolveAssemblyReference.cache
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\bin\Debug\RFQCreditReports.dll.config
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\bin\Debug\RFQCreditReports.dll
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\bin\Debug\RFQCreditReports.pdb
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\obj\Debug\RFQCreditReports.csprojResolveAssemblyReference.cache
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\obj\Debug\RFQCreditReports.Beschreibung1.resources
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\obj\Debug\RFQCreditReports.Beschreibung3.resources
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\obj\Debug\RFQCreditReports.Beschreibung2.resources
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\obj\Debug\RFQCreditReports.Summary.resources
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\obj\Debug\RFQCreditReports.CreditReport.resources
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\obj\Debug\RFQCreditReports.csproj.GenerateResource.Cache
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\obj\Debug\RFQCreditReports.dll
+E:\Activities\6. Efren Castillo\Credit Project\RFGCreditReportsGit\RFQCreditReports\obj\Debug\RFQCreditReports.pdb

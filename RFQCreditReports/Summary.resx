@@ -118,7 +118,8 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="sqlDataSource1.SelectCommand" xml:space="preserve">
-    <value>select Steuer 'Steuer Kennz', 
+    <value>select * from (
+select Steuer 'Steuer Kennz', 
 case when Steuer='A2' then 7.0
 when Steuer='AA' then 19.0
 else 0 end
@@ -130,7 +131,7 @@ when Steuer='AA' then sum(Betrag)*0.19
  Steuer, 
  case when Steuer='A2' then (sum(Betrag)*0.07)+sum(Betrag)
 	when Steuer='AA' then (sum(Betrag)*0.19)+ sum(Betrag)
- else 0 end
+ else sum(Betrag) end
  Brutto
 from(
 SELECT        Master_Credit_Grid1.*
@@ -145,8 +146,9 @@ SELECT        Master_Credit_Grid3.*
 FROM            Master_Credit_Grid3
 where MasterId=@MasterId
 ) A
-where Steuer in ('A2','AA')
+--where Steuer in ('A2','AA')
 group by Steuer
+) A where Brutto is not null
 </value>
   </data>
   <metadata name="$this.SnapGridSize" type="Telerik.Reporting.Drawing.Unit, Telerik.Reporting, Version=4.1.10.921, Culture=neutral, PublicKeyToken=a9d7983dfcc261be">
